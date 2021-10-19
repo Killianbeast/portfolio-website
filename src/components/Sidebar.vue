@@ -2,8 +2,8 @@
     <div class="sidebar">
         <a href="#AboutMe">About Me</a>
         <a href="#Projects">Projects</a>
-        <a href="#">Resume</a>
-        <a href="#">Contact Me</a>
+        <a href="#Resume">Resume</a>
+        <a href="#Contact">Contact Me</a>
     </div>
 </template>
 

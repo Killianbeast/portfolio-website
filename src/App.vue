@@ -2,12 +2,20 @@
   <Header title="Home Page"/>
   <SideBar class="sidenav"/>
   
-  <div class="div" id="AboutMe">
+  <div id="AboutMe">
     <h1>About Me</h1>
   </div>
 
-  <div class="div" id="Projects">
+  <div id="Projects">
     <h1>Projects</h1>
+  </div>
+
+  <div id="Resume">
+    <h1>Resume</h1>
+  </div>
+
+  <div id="Contact">
+    <h1>Contact Me</h1>
   </div>
 </template>
 
@@ -59,10 +67,3 @@ body {
 }
 </style>
 
-<style scoped>
-.div {
-  height: 1000px;
-  padding: 20px;
-  border: 2px yellow;
-}
-</style>
