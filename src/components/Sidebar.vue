@@ -19,6 +19,7 @@ export default {
     position: fixed;
     z-index: 1;
     right: 0;
+    bottom: 0;
     background-color: black;
     overflow-x: hidden;
 }
